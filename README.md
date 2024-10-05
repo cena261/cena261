@@ -1,15 +1,43 @@
-<h1 align="center">👋 Welcome to Cena's profile!</h1>
-<img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/0f313b991cfd6cc33a47a9d5a6de5d8d/tumblr_inline_pbw9rzbnsa1rt2432_500.gifv">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cena261&label=Profile%20views&color=0e75b6&style=flat" alt="cena261" /> </p>
+<h1 align="center">
+  Welcome to Cena's profile!
+</h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cena261" alt="cena261" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=%E2%8C%A8+Hello+!!!;%E2%8C%A8+My+name+is+Cena+%F0%9F%98%98;%E2%8C%A8+I%E2%80%99m+studying+at+HUIT;%E2%8C%A8+Reach+me+via+Email%2C+Facebook%2C...+below;%F0%9F%90%A7+%F0%9F%90%A7+%F0%9F%90%A7&center=true&width=700&height=45&color=009900&vCenter=true&size=20">
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cena261&show_icons=true&locale=en&layout=compact" alt="cena261" /></p>
+<p align="center">
+  <a href="https://fb.com/tunguyenn261"><img src="https://64.media.tumblr.com/0f313b991cfd6cc33a47a9d5a6de5d8d/tumblr_inline_pbw9rzbnsa1rt2432_500.gifv"></a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cena261&show_icons=true&locale=en" alt="cena261" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cena261&" alt="cena261" /></p>
+[![](https://komarev.com/ghpvc/?username=hth125192&color=brightgreen&style=plastic)](https://github.com/hth125192)
+
+## Contact With Me 👀
+
+<a href="https://github.com/cena261" target="blank">
+  <img align="center" src="https://img.shields.io/badge/-Kh%C3%A1nh%20T%C3%BA-1C1C1C?logo=github&logoColor=white" />
+</a>
+<a href="https://fb.com/tunguyenn261" target="blank"><img align="center" src="https://img.shields.io/badge/-Kh%C3%A1nh%20T%C3%BA-1C1C1C?logo=facebook&logoColor=white" /></a>
+<a href="https://discord.com/n_cena" target="blank"><img align="center" src="https://img.shields.io/badge/-Cena-436EEE?logo=discord&logoColor=white" /></a>
+
+---
+
+## GitHub Stats ️🎯
+
+| <a href="https://github.com/cena261?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api?username=cena261&show_icons=true&include_all_commits=true&count_private=true&theme=chartreuse-dark" alt="hth125192's github stats" /></a> | <a href="https://github.com/cena261?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cena261&langs_count=10&layout=compact&theme=chartreuse-dark" /></a> |
+| ------------- | ------------- |
+
+## GitHub Streak 🔥
+
+[![](https://github-readme-streak-stats.herokuapp.com/?user=cena261&theme=chartreuse-dark)](https://github.com/cena261?tab=repositories)
+
+
+<br />
+<br />
+
+<div align="center">
+    <a href="https://github.com/cena261"><img src="https://img.shields.io/badge/COPYRIGHT-CENA-red?style=for-the-badge&labelColor=f5b0b0" /></a>
+
+</div>
