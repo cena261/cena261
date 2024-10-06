@@ -16,11 +16,11 @@
 
 ## Contact With Me 👀
 
-<a href="https://github.com/cena261" target="blank">
-  <img align="center" src="https://img.shields.io/badge/-Kh%C3%A1nh%20T%C3%BA-1C1C1C?logo=github&logoColor=white" />
-</a>
+<a href="https://github.com/cena261" target="blank"><img align="center" src="https://img.shields.io/badge/-Kh%C3%A1nh%20T%C3%BA-1C1C1C?logo=github&logoColor=white" /></a>
 <a href="https://fb.com/tunguyenn261" target="blank"><img align="center" src="https://img.shields.io/badge/-Kh%C3%A1nh%20T%C3%BA-1C1C1C?logo=facebook&logoColor=white" /></a>
 <a href="https://discord.com/n_cena" target="blank"><img align="center" src="https://img.shields.io/badge/-Cena-436EEE?logo=discord&logoColor=white" /></a>
+<a href="https://www.hackerrank.com/khanhtu261" target="blank"><img align="center" src="https://img.shields.io/badge/khanhtu261-00EA64?style=flat&logo=hackerrank&logoColor=white" /></a>
+<a href="https://www.leetcode.com/cena261" target="blank"><img align="center" src="https://img.shields.io/badge/Cena261-FFA116?style=flat&logo=leetcode&logoColor=white" /></a>
 
 ---
 
@@ -38,6 +38,6 @@
 <br />
 
 <div align="center">
-    <a href="https://github.com/cena261"><img src="https://img.shields.io/badge/COPYRIGHT-CENA-red?style=for-the-badge&labelColor=f5b0b0" /></a>
+    <a href="https://github.com/cena261"><img src="https://img.shields.io/badge/%C2%A9_C_O_P_Y_R_I_G_H_T-C_E_N_A-red?style=for-the-badge" /></a>
 
 </div>
