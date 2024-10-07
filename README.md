@@ -14,7 +14,7 @@
 
 [![](https://komarev.com/ghpvc/?username=cena261&color=brightgreen&style=plastic)](https://github.com/cena261)
 
-## Contact With Me 👀
+## Connect With Me 👀
 
 <a href="https://github.com/cena261" target="blank"><img align="center" src="https://img.shields.io/badge/-Kh%C3%A1nh%20T%C3%BA-1C1C1C?logo=github&logoColor=white" /></a>
 <a href="https://fb.com/tunguyenn261" target="blank"><img align="center" src="https://img.shields.io/badge/-Kh%C3%A1nh%20T%C3%BA-1C1C1C?logo=facebook&logoColor=white" /></a>
