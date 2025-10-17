@@ -37,7 +37,3 @@
 <br />
 <br />
 
-<div align="center">
-    <a href="https://github.com/cena261"><img src="https://img.shields.io/badge/%C2%A9_C_O_P_Y_R_I_G_H_T-C_E_N_A-red?style=for-the-badge" /></a>
-
-</div>
